@@ -1,0 +1,31 @@
+form: flex-pages
+unique_id: a5eb7a68f04b001c7a5c661442dfe101
+url: '/pages/partners/partners-grid/:add'
+user:
+  username: hambg
+  email: eftimov.alen@gmail.com
+timestamps:
+  created: 1638372561
+  updated: 1638372561
+data: null
+files: {  }
+object:
+  type: pages
+  key: partners/partners-grid
+  storage_key: ''
+  timestamp: 0
+  serialized:
+    __META: {  }
+    storage_key: ''
+    parent_key: 03.partners
+    order: false
+    folder: partners-grid
+    template: ''
+    lang: ''
+    root: false
+    route: /partners
+    name: ''
+    modular: '1'
+    header:
+      title: Partners-grid
+    frontmatter: "title: Partners-grid\n"
